@@ -32,10 +32,10 @@ img{
     border-radius: 10px;
 }
 
-@media(max-width:600px){
+@media(max-width:900px){
     .container{
         padding: 20px;
-        margin: 0px 70px;
+        margin: 0px 20px;
     }
 
     .container p{
