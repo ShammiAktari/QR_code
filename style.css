@@ -32,5 +32,15 @@ img{
     border-radius: 10px;
 }
 
+@media(max-width:600px){
+    .container{
+        padding: 20px;
+        margin: 0px 70px;
+    }
+
+    .container p{
+        font-size: 20px;
+    }
+}
 
 
